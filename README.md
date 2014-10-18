@@ -1,6 +1,11 @@
 # simple-recognizer
-Author: Thomas J Donahue
+Author: Thomas Donahue
+
+Email: donahut.se@gmail.com
+
 Date: 4/30/13
+
+This was built as part of an assignment for a course, Situated Natural Language Dialogs with Robots, that I took while studying at Tufts University -- Spring 2013.
 
 ## Description
 
@@ -16,7 +21,7 @@ http://en.wikipedia.org/wiki/Dynamic_time_warping
 
 java -jar simple-recognizer-1.0-standalone.jar filepath-to-sound-file
 
-Notes:
+#### Notes:
 The full filepath (from /home) to the file is required
 
 Inside the jar are all of the sound files I used for testing. There
